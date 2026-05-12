@@ -1,8 +1,0 @@
-streamlit
-pypdf
-langchain
-langchain-community
-langchain-openai
-langchain-text-splitters
-faiss-cpu
-openai
